@@ -1,0 +1,1 @@
+{"name":"Local: dsa","url":"c:\\Users\\admin\\Desktop\\VS Code C++\\dsa.cpp","tests":[{"id":1717914981934,"input":"abcd\n1\n2","output":"acbd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\admin\\Desktop\\VS Code C++\\dsa.cpp","group":"local","local":true}
